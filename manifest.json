@@ -3,9 +3,7 @@
     "name": "TXYZ Instant Paper Insights: Get Paper Summary in One Click",
     "version": "1.1",
     "description": "Instantly read and analyze papers with TXYZ AI agents. No more copying links or downloading PDFs.",
-    "permissions": [
-        "activeTab"
-    ],
+    "permissions": [],
     "host_permissions": [
         "https://app.chatxiv.org/*"
     ],
