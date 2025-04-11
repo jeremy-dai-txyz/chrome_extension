@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Instant Paper Insights: Get Paper Summary in One Click",
+    "name": "TXYZ Instant Paper Insights: Get Paper Summary in One Click",
     "version": "1.0",
     "description": "Instantly read and analyze papers with TXYZ AI agents. No more copying links or downloading PDFs.",
     "permissions": [
